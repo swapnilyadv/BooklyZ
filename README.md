@@ -6,7 +6,7 @@ This is a simple and best webiste for beginner in web devlopment is website cont
 2. register page for user and admin
 ![image](https://user-images.githubusercontent.com/79936181/199332938-6bb9d48a-2685-46eb-9e38-383655d56e2a.png)
 3. Home page_user 
-![image](https://user-images.githubusercontent.com/79936181/199333079-9f30dbc1-63d7-4609-931b-f97bf9d5d377
+![image](https://user-images.githubusercontent.com/79936181/199334547-ade40909-9d2d-4a4e-a415-35ae12290a61.png)
 4. About us 
 ![image](https://user-images.githubusercontent.com/79936181/199333306-a81dad15-5631-4031-93b7-3359d2d792d5.png)
 5. REVIEWS
